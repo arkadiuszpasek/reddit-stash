@@ -1,5 +1,6 @@
 {
   "name": "falcon",
+  "homepage": "https://arkadiuszpasek.github.io/reddit-stash",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -35,7 +36,9 @@
     "serve": "node server.js",
     "test": "react-scripts test",
     "eject": "react-scripts eject",
-    "lint": "tslint --project ."
+    "lint": "tslint --project .",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build"
   },
   "eslintConfig": {
     "extends": [
@@ -60,6 +63,7 @@
     "@types/react-redux": "^7.1.16",
     "@types/react-router-dom": "^5.1.7",
     "@types/styled-components": "^5.1.7",
+    "gh-pages": "^3.2.0",
     "tslint": "^6.1.3"
   }
 }

@@ -1,7 +1,7 @@
 import React, { useEffect } from 'react';
 import ReactDOM from 'react-dom';
 import './index.css';
-import { BrowserRouter as Router, Switch, Route } from 'react-router-dom';
+import { HashRouter as Router, Switch, Route } from 'react-router-dom';
 import NavigationList from './containers/NavigationList';
 import { applyMiddleware, createStore } from 'redux';
 import { Provider } from 'react-redux';
