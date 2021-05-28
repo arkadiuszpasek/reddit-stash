@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/arkadiuszpasek.github.io/reddit-stash/static/css/main.1df1a2fd.chunk.css",
+    "main.js": "/arkadiuszpasek.github.io/reddit-stash/static/js/main.2d5025c2.chunk.js",
+    "main.js.map": "/arkadiuszpasek.github.io/reddit-stash/static/js/main.2d5025c2.chunk.js.map",
+    "runtime-main.js": "/arkadiuszpasek.github.io/reddit-stash/static/js/runtime-main.88db5167.js",
+    "runtime-main.js.map": "/arkadiuszpasek.github.io/reddit-stash/static/js/runtime-main.88db5167.js.map",
+    "static/js/2.70d704bd.chunk.js": "/arkadiuszpasek.github.io/reddit-stash/static/js/2.70d704bd.chunk.js",
+    "static/js/2.70d704bd.chunk.js.map": "/arkadiuszpasek.github.io/reddit-stash/static/js/2.70d704bd.chunk.js.map",
+    "index.html": "/arkadiuszpasek.github.io/reddit-stash/index.html",
+    "static/css/main.1df1a2fd.chunk.css.map": "/arkadiuszpasek.github.io/reddit-stash/static/css/main.1df1a2fd.chunk.css.map",
+    "static/js/2.70d704bd.chunk.js.LICENSE.txt": "/arkadiuszpasek.github.io/reddit-stash/static/js/2.70d704bd.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.88db5167.js",
+    "static/js/2.70d704bd.chunk.js",
+    "static/css/main.1df1a2fd.chunk.css",
+    "static/js/main.2d5025c2.chunk.js"
+  ]
+}
