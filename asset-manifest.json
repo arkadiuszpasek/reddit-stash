@@ -1,20 +1,20 @@
 {
   "files": {
     "main.css": "/reddit-stash/static/css/main.1df1a2fd.chunk.css",
-    "main.js": "/reddit-stash/static/js/main.ffa3b5dc.chunk.js",
-    "main.js.map": "/reddit-stash/static/js/main.ffa3b5dc.chunk.js.map",
+    "main.js": "/reddit-stash/static/js/main.b88529cc.chunk.js",
+    "main.js.map": "/reddit-stash/static/js/main.b88529cc.chunk.js.map",
     "runtime-main.js": "/reddit-stash/static/js/runtime-main.c44a3848.js",
     "runtime-main.js.map": "/reddit-stash/static/js/runtime-main.c44a3848.js.map",
-    "static/js/2.dbd17db6.chunk.js": "/reddit-stash/static/js/2.dbd17db6.chunk.js",
-    "static/js/2.dbd17db6.chunk.js.map": "/reddit-stash/static/js/2.dbd17db6.chunk.js.map",
+    "static/js/2.6718f48c.chunk.js": "/reddit-stash/static/js/2.6718f48c.chunk.js",
+    "static/js/2.6718f48c.chunk.js.map": "/reddit-stash/static/js/2.6718f48c.chunk.js.map",
     "index.html": "/reddit-stash/index.html",
     "static/css/main.1df1a2fd.chunk.css.map": "/reddit-stash/static/css/main.1df1a2fd.chunk.css.map",
-    "static/js/2.dbd17db6.chunk.js.LICENSE.txt": "/reddit-stash/static/js/2.dbd17db6.chunk.js.LICENSE.txt"
+    "static/js/2.6718f48c.chunk.js.LICENSE.txt": "/reddit-stash/static/js/2.6718f48c.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.c44a3848.js",
-    "static/js/2.dbd17db6.chunk.js",
+    "static/js/2.6718f48c.chunk.js",
     "static/css/main.1df1a2fd.chunk.css",
-    "static/js/main.ffa3b5dc.chunk.js"
+    "static/js/main.b88529cc.chunk.js"
   ]
 }
